@@ -81,8 +81,8 @@ Ainda dentro da página de detalhes é possível realizar a votação do título
 basta escolher a sua nota e clicar no botão **VOTAR** .
 
 
-![Tela Inicial](https://github.com/juniormedeiros/django/blob/main/Picture1.JPG)
+![Tela Inicial](https://github.com/juniormedeiros/django/blob/dev/Picture1.JPG)
 
-![Tela de Pesquisa](https://github.com/juniormedeiros/django/blob/main/Picture2.JPG)
+![Tela de Pesquisa](https://github.com/juniormedeiros/django/blob/dev/Picture2.JPG)
 
 **Created By Junior Medeiros 27 April 2021**
