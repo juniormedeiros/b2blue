@@ -85,4 +85,5 @@ basta escolher a sua nota e clicar no botão **VOTAR** .
 
 ![Tela de Pesquisa](https://github.com/juniormedeiros/django/blob/dev/Picture2.JPG)
 
+
 **Created By Junior Medeiros 27 April 2021**
